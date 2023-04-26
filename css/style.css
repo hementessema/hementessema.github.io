@@ -1,5 +1,5 @@
 header, footer {
-  background-color: #725e3e;
+  background-color: rgb(116, 95, 62);
   text-align: center;
   min-width: 500px;
 }
@@ -93,9 +93,18 @@ img {
   margin: auto;
 }
 
-footer {
-  margin-top: 44px;
+footer div{
+  height: 100%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  display: flex;
+  align-content: center;
+  padding: 10px 20px;
+  color: rgb(116, 95, 62);
+
 }
+
+
 
 @media all and (max-width:700px) {
   main {
