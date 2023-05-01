@@ -67,6 +67,7 @@ img {
 .wrapper {
   max-width: 1150px;
   margin: auto;
+  padding: 50px;
   display: block;
 }
 
