@@ -9,7 +9,7 @@ body {
 }
 
 header, footer {
-  background-color: rgb(116, 95, 62);
+  background-color: rgb(0, 0, 0);
   text-align: center;
   min-width: 500px;
 }
