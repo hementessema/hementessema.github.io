@@ -95,7 +95,7 @@ font-family: 'Work Sans';
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:rgb(112, 86, 49);
 }
 
 .myButton:active {
@@ -139,6 +139,12 @@ font-family: 'Work Sans';
   bottom: 5px;
 }
 
+.project {
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+  width:100%;
+}
+
+
 .description {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 16px;
@@ -147,16 +153,10 @@ font-family: 'Work Sans';
   letter-spacing: 0.1px;
   text-align: left;
   color: #38281b;
-  padding: 10px 0px 10px 10px;
+  padding: 0px 20px 20px 20px;
   border-top: 1px solid #4a4a4a;
 }
 
-.logo {
-  width: 115px;
-  height: 21.1px;
-  object-fit: contain;
-  padding: 20px;
-}
 
 .container {
   /* min-width: 500px; */
