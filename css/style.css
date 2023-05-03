@@ -11,6 +11,8 @@ body {
 
 header, footer {
   background-color: rgb(112, 86, 49);
+  background: -webkit-linear-gradient(315deg, #523212, #6b4314);  
+  background: linear-gradient(315deg, #523212, #6b4314);
   text-align: center;
   min-width: 500px;
 }
@@ -35,6 +37,9 @@ main {
 @media all and (max-width:700px) {
   main {
     grid-template-columns: 1fr;
+  }
+  img {
+    height: 40vh;
   }
 }
 
