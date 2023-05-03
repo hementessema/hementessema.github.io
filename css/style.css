@@ -165,6 +165,9 @@ footer div{
   color: rgb(255, 255, 255);
 
 }
+div{
+  display : block;
+}
 
 .copyright {
   margin: auto 0;
